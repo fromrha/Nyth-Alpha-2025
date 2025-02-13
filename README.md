@@ -1,6 +1,6 @@
 # Nyth Alpha - WhatsApp Bot
 
-![Nyth Alpha](https://pomf2.lain.la/f/oaxo9x92.jpg)
+![Nyth Alpha](https://telegra.ph/file/e6f54418bdc9096b3f306.jpg)
 
 **Nyth Alpha** is a feature-rich WhatsApp chatbot built using the **Baileys** library. Designed specifically for educational and group management purposes, it is tailored to boost the productivity of my class learning program, featuring automation tools, AI integration, group management, and more. 
 
@@ -32,16 +32,17 @@
 
 | Command             | Description                                     |
 |---------------------|-------------------------------------------------|
-| `${prefix}allmenu`        | Lihat semua menu seru di sini, kak!                |
-| `${prefix}aimenu`         | Permudah kerjaan anda dengan bantuan AI            |
-| `${prefix}ownermenu`      | Menampilkan Menu owner                          |
-| `${prefix}groupmenu`      | Intip menu khusus grup, kita seru-seruan bareng!  |
-| `${prefix}searchmenu`     | Menampilkan Menu Search                         |
-| `${prefix}islamimenu`     | Menampilkan Menu Islami                         |
-| `${prefix}downloadmenu`   | Unduh apa yang kakak butuhin, pake tools ini!    |
-| `${prefix}convertmenu`    | Tools untuk konversi format file                 |
-| `${prefix}storemenu`      | Menampilkan Menu Store                         |
-| `${prefix}othermenu`      | Menampilkan Menu Other                         |
+| `All Menu`          | Lihat semua menu seru di sini, kak!             |
+| `Menu Kelas KPI 2`  | Menampilkan Menu khusus kelas KPI 2             |
+| `Menu Ai`           | Permudah kerjaan anda dengan bantuan AI         |
+| `Menu Owner`        | Menampilkan Menu owner                          |
+| `Menu Group`        | Intip menu khusus grup, kita seru-seruan bareng!|
+| `Menu Search`       | Menampilkan Menu Search                         |
+| `Menu Islami`       | Menampilkan Menu Islami                         |
+| `Menu Download`     | Unduh apa yang kakak butuhin, pake tools ini!   |
+| `Menu Convert`      | Tools untuk konversi format file                |
+| `Menu Store`        | Menampilkan Menu Store                          |
+| `Menu Other`        | Menampilkan Menu Other                          |
 
 ---
 
@@ -169,4 +170,5 @@ Contributions are welcome! To contribute please read this instruction:
 If you find this project helpful, consider supporting by:
 
 - ⭐ Starring this repository.
-- ☕ Buy me a coffee!
+- ☕ [Buy me a coffee](https://buymeacoffee.com/fromrha)
+- 💵 [Paypal](https://paypal.me/haishin)
