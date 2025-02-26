@@ -170,5 +170,5 @@ Contributions are welcome! To contribute please read this instruction:
 If you find this project helpful, consider supporting by:
 
 - ⭐ Starring this repository.
-- ☕ [Buy me a coffee](https://buymeacoffee.com/fromrha)
+- ☕ [Buy me a Ko-Fi](https://ko-fi.com/fromrha)
 - 💵 [Paypal](https://paypal.me/haishin)
