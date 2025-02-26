@@ -160,7 +160,7 @@ Contributions are welcome! To contribute please read this instruction:
 
 ## 🧑‍💻 Contact & Support
 
-- **WhatsApp**: [Contact Creator](https://wa.me/6282114692838)
+- **Email**: [Contact Creator](mailto:rahmanhanafi365@outlook.com)
 - **Portfolio**: [Fromrha](https://fromrha.framer.website/)
 
 ---
